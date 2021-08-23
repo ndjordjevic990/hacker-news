@@ -1,0 +1,28 @@
+.post {
+  width: 90%;
+  margin: 15px auto;
+  background-color: #f6f6ee;
+  border-bottom: 1px solid grey;
+  padding-bottom: 10px;
+}
+
+.post:hover {
+  box-shadow: 7px 8px 6px rgb(180, 179, 179);
+}
+
+.post__info > span {
+  padding-right: 15px;
+  padding-top: 10px;
+}
+
+.post__title {
+  margin-bottom: 20px;
+  color: #eb6436;
+}
+
+.post__info_comments {
+  background-color: #18a2b8;
+  padding: 10px;
+  border-radius: 20px;
+  color: white;
+}
